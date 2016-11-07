@@ -1,5 +1,5 @@
 {
-  "name": "miles",
+  "name": "millestone-2",
   "version": "1.0.0",
   "description": "Teste Automatizados",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dairel/Milest2.git"
+    "url": "git+https://github.com/dairel/Milestone-2.git"
   },
   "author": "Dairel",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dairel/Milest2/issues"
+    "url": "https://github.com/dairel/Millestone-2/issues"
   },
-  "homepage": "https://github.com/dairel/Milest2#readme",
+  "homepage": "https://github.com/dairel/Millestone-2#readme",
   "devDependencies": {
     "karma-chrome-launcher": "^2.0.0",
     "karma-coverage": "^1.1.1",
